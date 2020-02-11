@@ -1,0 +1,4 @@
+,R2,MAE,RMSE
+baseline,0.61,5.45,6.98
+random_forest_label_encoder,0.7,4.86,6.08
+random_forest_word2vec,0.75,4.41,5.56
