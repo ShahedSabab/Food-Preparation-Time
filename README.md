@@ -1,5 +1,5 @@
-# Chefs Watch
-Chefs watch is a food time prediction system. This was one of the challenges of the [Data Science Nexus Conference 2019](https://mailchi.mp/umanitoba.ca/data-science-conference) arranged by SkipTheDishes, Canada's leading and largest food delivery company. The data included upto 10 ordered food items along with the quantity. The goal is to predict food preparation time.
+# Chefs' Watch
+Chefs' Watch is a food time prediction system. This was one of the challenges of the [Data Science Nexus Conference 2019](https://mailchi.mp/umanitoba.ca/data-science-conference) arranged by SkipTheDishes, Canada's leading and largest food delivery company. The data included upto 10 ordered food items along with the quantity. The goal is to predict food preparation time.
 
 # Dataset info
 The data included 20 features and 80,000 samples. Please check Data-Challenge-Skipthedishes-Repaired.pdf for details.
